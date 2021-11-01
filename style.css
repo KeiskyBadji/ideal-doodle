@@ -1,0 +1,18 @@
+* {
+  background: url(./3539116.jpg);
+}
+.center {
+    text-align: center;
+}
+table {
+    width: 600px; /* Ширина таблицы в процентах */
+   }
+   .col1 {
+    width: 500px; /* Ширина ячейки */
+   }
+.ptyo:hover {
+ background-color: rgb(238, 255, 0);
+  }
+body:hover {
+background-color: rgb(68, 128, 177);
+}
